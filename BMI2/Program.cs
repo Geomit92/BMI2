@@ -6,6 +6,7 @@ namespace BMI2
     {
         static void Main(string[] args)
         {
+            //// Comments
             Console.Write("Please give me your weight:");
             string w = Console.ReadLine();
             float weight = float.Parse(w);
